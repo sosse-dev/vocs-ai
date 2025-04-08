@@ -1,17 +1,18 @@
-🧠 Vocs AI – English Learning Assistant
-Vocs AI is a simple and smart English assistant designed to help users learn and improve their English through text-based interaction. Whether you're expanding your vocabulary, practicing grammar, or translating between languages, Vocs AI makes the process easier and more accessible.
+# 🧠 VOCS AI – ENGLISH LEARNING ASSISTANT
 
-✨ Features:
-💬 Text-based AI assistant for learning English
+**VOCS AI** is a **Simple** and **Smart English Assistant** designed to help users **learn** and **improve** their English through **text-based interaction**. Whether you're expanding your **vocabulary**, practicing **grammar**, or translating between languages, VOCS AI makes the process easier and more accessible.
 
-🌐 Supports both English and Indonesian languages
+---
 
-📖 Helps with grammar, vocabulary, and sentence structure
+## ✨ FEATURES
 
-🧠 Powered by DeepSeek-V3 via OpenRouter
+- 💬 **Text-Based AI Assistant** for Learning English  
+- 🌐 **Bilingual Support**: English and Indonesian  
+- 📖 **Grammar & Vocabulary Assistance**  
+- 🧠 **Powered by DeepSeek-V3** via OpenRouter.ai 
+- 🧩 **Built with SvelteKit**  
+- 🧼 **Clean & Minimal User Interface**
 
-🧩 Built with SvelteKit
+---
 
-🧼 Clean and minimal user interface
-
-A practical tool for learners who want to improve their English skills through clear and interactive guidance.
+VOCS AI is a practical tool for learners who want to **enhance their English skills** through clear, focused, and interactive guidance.

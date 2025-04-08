@@ -37,5 +37,8 @@
 	},
 	"dependencies": {
 		"uuid": "^11.1.0"
+	},
+	"optionalDependencies": {
+		"@rollup/rollup-linux-x64-gnu": "^4.39.0"
 	}
 }
